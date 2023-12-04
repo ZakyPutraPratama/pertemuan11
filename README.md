@@ -1,4 +1,4 @@
-# praktikum 6
+# praktikum 7
 ## latihan
 ![gambar](dokumentasi/latihan6.png)
 ## praktikum
